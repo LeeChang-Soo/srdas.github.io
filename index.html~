@@ -22,7 +22,7 @@
   <frame name="banner" scrolling="no" noresize target="contents" src="header.htm">
   <frameset cols="300,*">
     <frame name="contents" target="main" src="toc.htm">
-    <frame name="main" src="index2.png" target="_self">
+    <frame name="main" src="index2.html" target="_self">
   </frameset>
   <noframes>
   <body>
