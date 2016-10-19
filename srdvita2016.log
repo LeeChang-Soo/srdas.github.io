@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  13 OCT 2016 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 OCT 2016 05:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -68,7 +68,7 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 125.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 128.
 
 
 [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
@@ -83,11 +83,11 @@ Missing character: There is no ï in font cmss10!
 Missing character: There is no ¿ in font cmss10!
 Missing character: There is no ½ in font cmss10!
  [5] [6] [7] [8] [9] [10] [11] [12] [13]
-Underfull \hbox (badness 10000) in paragraph at lines 1584--1602
+Underfull \hbox (badness 10000) in paragraph at lines 1593--1611
 
  []
 
-[14] [15] (./srdvita2016.aux)
+[14] [15] [16] (./srdvita2016.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -95,20 +95,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  503 strings out of 493089
  6981 string characters out of 6134842
- 68317 words of memory out of 5000000
+ 69317 words of memory out of 5000000
  4050 multiletter control sequences out of 15000+600000
  4901 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,5n,29p,373b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,4n,29p,373b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on srdvita2016.pdf (15 pages, 112410 bytes).
+Output written on srdvita2016.pdf (16 pages, 113109 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
